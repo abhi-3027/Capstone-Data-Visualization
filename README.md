@@ -2,23 +2,23 @@
 Contains graphs of the capstone project LUMOS
 ## Details of the Jupiter Notebooks
 
-##brisque.ipynb
+## brisque.ipynb
 
 It contains the data visualization code generated using 2400 images of Brisque scores calculated.
 
-##color.ipynb
+## color.ipynb
 
 It contains the data visualization code generated using 2400 images of Color scores calculated.
 
-##niqe.ipynb
+## niqe.ipynb
 
 It contains the data visualization code generated using 2400 images of NIQE scores calculated.
 
-##piqe.ipynb
+## piqe.ipynb
 
 It contains the data visualization code generated using 2400 images of PIQE scores calculated.
 
-##brisque augument data.ipynb
+## brisque augument data.ipynb
 
 It contains the data visualization code generated using Brisque scores calculated on different types of Augmented Images like:
 
@@ -30,7 +30,7 @@ c) Images with Motion Blur
 
 d) Images with Poisson Noise added to it.
 
-##color augment data.ipynb
+## color augment data.ipynb
 
 It contains the data visualization code generated using Color scores calculated on different types of Augmented Images like:
 
@@ -42,7 +42,7 @@ c) Images with Motion Blur
 
 d) Images with Poisson Noise added to it.
 
-##niqe augment data.ipynb
+## niqe augment data.ipynb
 
 It contains the data visualization code generated using NIQE scores calculated on different types of Augmented Images like:
 
@@ -54,7 +54,7 @@ c) Images with Motion Blur
 
 d) Images with Poisson Noise added to it.
 
-##piqe augment data.ipynb
+## piqe augment data.ipynb
 
 It contains the data visualization code generated using PIQE scores calculated on different types of Augmented Images like:
 
